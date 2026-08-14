@@ -1,5 +1,5 @@
-# Simple Python Calculator
-This is my first Python project! It performs basic math in the terminal.
+# Simple Python Calculators
+
 
 ## How to Run
 1. Make sure you have Python installed.
